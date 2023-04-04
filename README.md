@@ -2,8 +2,6 @@
 
 ## FSD Nano Project by :
 Aditya Agarwal (201B015)  
-Abhyansh Shrivastava (201B013)  
-Shivam Jaiswal (201B251)
 
 ## Steps to Run the Web App :
 1. Clone the repository.
